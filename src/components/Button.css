@@ -1,0 +1,39 @@
+/* Button.css */
+.button {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    border: none;
+    top: 50px;
+    right: 40.5px;
+    background-color: rgb(208, 203, 203);
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s ease;
+  }
+  
+  .plus-svg {
+    display: none;
+  }
+  
+  .button:hover .equal-svg {
+    display: none;
+    
+  }
+  
+  .button:hover .plus-svg {
+    display: block;
+    
+  }
+  
+  .button:hover {
+    background-color: rgb(30, 29, 29);
+    /* transform: scale(2); */
+    
+  }
+  .button:hover .plus-svg rect {
+    fill: white;
+}
