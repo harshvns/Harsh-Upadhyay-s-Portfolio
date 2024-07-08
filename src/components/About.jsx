@@ -14,7 +14,7 @@ const About = () => {
       <div className='flex flex-row justify-center items-center'>
         <div className='pl-10'>
         <div className='pt-20 font-custom font-extra-bold text-custom-size leading-tight px-20 pt-20 pb-10 tracking-wide'>NICE TO MEET YOU</div>
-        <div className='px-20 text-lg leading-10 tracking-wider'style={{width:'700px'}}>I’m Jo and I’m here to assist you. My feeling is you already know how crucial it is for your business to have a robust brand and website. Why? Because you’re very smart. That’s why. The good news is: you came to the right place. I’m awesome at doing those things. True story.
+        <div className='px-20 text-lg leading-8 tracking-wider'style={{width:'700px'}}>Hello, I'm Harsh, dedicated to leveraging my expertise in branding and web development to drive your business forward. With a deep understanding of the pivotal role a strong brand and effective website play in business success, I am committed to delivering impactful solutions. My portfolio showcases my proficiency in crafting compelling branding strategies and developing user-centric websites that meet business objectives.
 
         </div>
         </div>
